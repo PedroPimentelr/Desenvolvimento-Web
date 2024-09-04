@@ -1,4 +1,3 @@
 # Desenvolvimento-Web
-Meu primeiro repositório no github.
 
-2024
+Calculadora desenvolvida durante o Lab-16
